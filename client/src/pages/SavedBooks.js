@@ -81,7 +81,7 @@ const SavedBooks = () => {
                     className="btn-block btn-danger"
                     onClick={() => handleDeleteBook(book.bookId)}
                   >
-                    Remove this Book from saved list!
+                    Delete this Book!
                   </Button>
                 </Card.Body>
               </Card>
